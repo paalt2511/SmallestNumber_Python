@@ -15,4 +15,4 @@ Assumption : Constantly increasing list of numbers has been given which are shif
 *  Solution : Adding an interface for finding minimum and implementing it for numbers.
 
 ## To Run
-python <filename>
+python filename
